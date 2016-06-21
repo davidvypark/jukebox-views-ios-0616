@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B2DBC4E4ADC3E95872FD2E19ECC58A650E8C3FA0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B2DBC4E4ADC3E95872FD2E19ECC58A650E8C3FA0" : 0,
+    "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A12411E9-7475-4E1E-9BA2-C04F322AB671",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B2DBC4E4ADC3E95872FD2E19ECC58A650E8C3FA0" : "jukebox-views-ios-0616\/",
+    "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JukeboxViews",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JukeboxViews.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:davidvypark\/objc-dictionary-ice-cream-001",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:davidvypark\/jukebox-views-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B2DBC4E4ADC3E95872FD2E19ECC58A650E8C3FA0"
+    }
+  ]
+}
